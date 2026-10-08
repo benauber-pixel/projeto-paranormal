@@ -4,7 +4,7 @@ O **Projeto Paranormal** é um jogo de ficção interativa via terminal (*Text A
 No jogo, o jogador assume o papel de um **Investigador Paranormal** que explora uma mansão mal-assombrada utilizando ferramentas de caça-fantasmas para coletar pistas e identificar manifestações sobrenaturais.
 
 
-## 📋 Descrição do Projeto
+##  Descrição do Projeto
 
 O objetivo do investigador é avançar pelas salas da mansão utilizando o **Leitor EMF** e o **Termômetro** para registrar anomalias no ambiente. 
 
