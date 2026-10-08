@@ -1,4 +1,4 @@
-# 👻 Projeto Paranormal - Text Adventure em Kotlin
+# Projeto Paranormal - Text Adventure em Kotlin
 
 O **Projeto Paranormal** é um jogo de ficção interativa via terminal (*Text Adventure*) desenvolvido em Kotlin.
 No jogo, o jogador assume o papel de um **Investigador Paranormal** que explora uma mansão mal-assombrada utilizando ferramentas de caça-fantasmas para coletar pistas e identificar manifestações sobrenaturais.
